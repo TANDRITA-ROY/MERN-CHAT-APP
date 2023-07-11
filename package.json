@@ -1,0 +1,16 @@
+{
+  "name": "pigeon",
+  "version": "1.0.0",
+  "description": "This is a chatting app, which includes one to one chatting along with group chatting facilities.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "Tandrita Roy",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
